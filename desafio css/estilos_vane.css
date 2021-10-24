@@ -1,0 +1,71 @@
+
+
+.navegador{
+
+    text-align: right;
+
+    background-color: #cdcdcd;
+
+    padding: 30px;
+
+    padding: 50px 30px 20px 10px;  
+
+
+
+    padding-top: 10px;
+
+    border:2px;
+
+
+}
+
+
+
+.anclas{
+
+    text-decoration: none;
+
+    color:black;
+
+    font-family: 'Kaisei HarunoUmi', serif;
+
+    font-family: 'Montserrat', sans-serif;
+
+    padding:0.5%;
+
+    background-color: #ffff;
+
+}
+
+
+
+.section{
+
+    width: 800px;
+
+    background-color: #ffff;
+
+    margin-left:auto;
+
+    margin-right: auto;
+
+}
+
+.pie{
+
+    text-align: center;
+
+    background-color: #cdcdcd;
+
+    padding: 30px;
+
+    padding: 50px 30px 20px 10px;  
+
+
+
+    padding-top: 10px;
+
+    border:2px;
+
+
+}
